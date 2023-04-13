@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="vipinkumar" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning ****Full-Stack Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipinkm1?tab=repositories](https://github.com/Vipinkm1?tab=repositories)
 
-- 💬 Ask me about **Html,Css,bootstrap**
+- 💬 Ask me about **Html,Css,Bootstrap,TailWind Css,Javascript,React.Js,Next.js,MangoDB,C++,Sql,FireBase**
 
 - 📫 How to reach me **vipinkm1654@gmail.com**
 
